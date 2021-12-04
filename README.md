@@ -18,6 +18,8 @@
 
 [Design Process](https://www.notion.so/Design-Process-6daf56fe6aca4a97ab8dde4c8b6d9c76)
 
+[Zeplin](https://www.udemy.com/course/sketchdesign/learn/lecture/11583298#overview)
+
 # Sketch Sources 
 
 https://www.sketchappsources.com/
