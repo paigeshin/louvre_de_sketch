@@ -21,3 +21,31 @@
 # Recommended Library
 
 [Sketch Wireframekit](https://www.sketchappsources.com/free-source/3651-ios-wireframing-kit-sketch-freebie-resource.html) 
+
+# UX Design Process
+
+1. Competitor Analysis
+3. Audience Definition
+4. User Scenarios
+5. Content Survey
+6. Process Flows 
+7. Site Map
+8. Wire Frames
+9. Design
+10. Prototyping
+11. User Testing
+12. Review
+13. Approval
+
+# Ten Principles of User Centered Design
+
+1. Design for the users and their tasks
+2. Be consistent
+3. Use simple and natural dialogue
+4. Reduce unnecessary mental effort by the user 
+5. Provide adequate feedback
+6. Provide adequate navigation
+7. Let the user drive
+8. Present information clearly
+9. Be helpful
+10. Reduce errors
