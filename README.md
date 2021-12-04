@@ -77,4 +77,3 @@ https://themeforest.net/
 - What does Apple encourage us to import our tab bar icons as
   - `As glyphs`
 
-- `As glyphs`
