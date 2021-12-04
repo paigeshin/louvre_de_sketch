@@ -26,6 +26,12 @@
 
 [Build LandingPage](https://www.udemy.com/course/sketchdesign/learn/lecture/11464536#overview)
 
+[10 Principles of User Centered Design](https://www.notion.so/10-Principles-of-User-Centered-Design-5501e0fc1e2c4dbdb9678a18b197f9ee)
+
+[Qualities of a good UX Designer](https://www.notion.so/Qualities-of-a-good-UX-Designer-789c899733b64bea934b4333cf1d5b2d)
+
+[UX Design Process ](https://www.notion.so/UX-Design-Process-ba54b37cd66d44e8a20cc1e241e15424)
+
 # Sketch Sources 
 
 https://www.sketchappsources.com/
