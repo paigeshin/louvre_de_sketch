@@ -71,3 +71,10 @@ https://themeforest.net/
 8. Present information clearly
 9. Be helpful
 10. Reduce errors
+
+# Apple
+
+- What does Apple encourage us to import our tab bar icons as
+  - `As glyphs`
+
+- `As glyphs`
